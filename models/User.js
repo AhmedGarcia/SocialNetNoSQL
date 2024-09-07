@@ -10,7 +10,7 @@ const userSchema = new Schema(
           
         },
         email: {
-            typr: stringify,
+            type: String,
             required: true,
             unique: true,
             match: [/.+@.+\..+/, 'Please enter a valid email address' ],
