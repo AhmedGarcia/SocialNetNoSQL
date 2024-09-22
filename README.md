@@ -43,7 +43,7 @@ mongod
 
 ## Usage
 
-### Start the server:
+### Start the server
 
 ```bash
 npm start
@@ -60,6 +60,7 @@ npm start
 - **POST** `/api/users`
 
 - **Body**:
+
   ```json
   {
     "username": "john_doe",
@@ -163,7 +164,7 @@ npm start
 
 ## Walkthrough Videos
 
-A walkthrough video demonstrating how to start the server can be found [here](#). The video demonstrating the functionality of the Social Network API can be found [here](#).
+A walkthrough video demonstrating how to start the server can be found [here](https://drive.google.com/file/d/10-Y59reNomYlHkbxtdIYYGObllySHgzc/view?usp=sharing). The video demonstrating the functionality of the Social Network API can be found [here](https://drive.google.com/file/d/1Psjc_Q4F9HlS6RgtdI0gBMGFbGq8iMDN/view?usp=sharing).
 
 The video covers:
 
@@ -177,7 +178,9 @@ The video covers:
 ## License
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+
 ## Contact Me
+
 If you have any questions or feedback regarding this project, feel free to reach out:
 
 - **GitHub**: [Ahmed Garcia](https://github.com/your-username)
